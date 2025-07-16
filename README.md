@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AminaRisu
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Web Development and Flutter
+- 🌱 I’m currently learning Python Full Stack Development
 - 📫 How to reach me aminarsh961@gmail.com
 - 😄 Pronouns: She
 - ⚡ Fun fact: 
